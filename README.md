@@ -1,8 +1,8 @@
-(https://media.licdn.com/dms/image/v2/D5616AQGoZhlUGOydhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725215120654?e=1730937600&v=beta&t=wemTPfXyuwHl7IpxyqEpuvtzVZfCHK6pKOMug-Qg9Sk)
+![I am a Web Designer & Developer.!](https://media.licdn.com/dms/image/v2/D5616AQGoZhlUGOydhg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725215120654?e=1730937600&v=beta&t=wemTPfXyuwHl7IpxyqEpuvtzVZfCHK6pKOMug-Qg9Sk)
 
 ### Hi there 👋, It's Md. Shalehin
 #### I am a Web Designer & Developer.!
-![I am a Web Designer & Developer.!]
+
 
 I'm a skilled front-end developer with a proven track record of crafting stunning and 
 user-centric websites. With over 4 years of hands-on experience, I specialize in 
